@@ -1,2 +1,2 @@
 # learning_git
-this is the folder I use to pratice how to use git hub
+this is the repository I use to pratice how to use git hub
